@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm a Frontend Engineer based in Japan 👋
 
-<!--
-**unit-2/unit-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web industry since 2002 — started as a designer/coder,  
+now focused on frontend engineering and WordPress development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+**Frontend**  
+HTML / CSS / SCSS / JavaScript / PHP  
+WordPress / ACF / Astro / microCMS
+
+**Infrastructure & Tools**  
+Git / AWS / SSH / WP-CLI / Docker / Vercel
+
+**Testing & Quality**  
+Playwright (e2e) / VRT / axe DevTools (Accessibility / WCAG)
+
+**AI Tools**  
+Claude Code / Cursor / MCP
+
+---
+
+## 📝 Note
+Most of my work has been managed in Backlog Git (private repositories),  
+so contributions here don't reflect my daily Git activity.  
+I work with Git regularly — branching, PRs, conflict resolution, and deployments.
